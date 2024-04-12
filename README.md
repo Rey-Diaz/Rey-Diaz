@@ -19,20 +19,7 @@
 <p align="left">
   I'm particularly passionate about using technology to create innovative solutions that enhance business operations. I'm constantly exploring new technologies and am proficient in tools like React.js and Flask, which I use to prototype and implement robust applications. I'm open to collaborations that leverage my background in network architecture and software development to create impactful technological solutions.
 </p>
-<h3 align="left">Skills:</h3>
-<ul>
-  <li>Network Automation</li>
-  <li>API and SDK Support</li>
-  <li>Web Development</li>
-  <li>Prototype Development</li>
-  <li>Account Management</li>
-  <li>Strategic Thinking</li>
-  <li>Training and Knowledge Sharing</li>
-</ul>
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-  Feel free to reach out for collaboration or if you have any opportunities that align with my skills.
-</p>
+
 <h3 align="center">Technologies:</h3>
 
 <table align="center" width="100%">
@@ -44,7 +31,6 @@
     <th>Other Tools/Frameworks</th>
     <th>Data Analysis/Visualization</th>
     <th>Design/Prototyping</th>
-    <th>Miscellaneous</th>
   </tr>
   <tr>
     <td align="center">
@@ -89,6 +75,9 @@
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/><br>Selenium<br><br>
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/><br>Unity<br><br>
       <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/><br>Unreal Engine
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><br>Arduino<br><br>
+      <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/><br>IFTTT<br><br>
+      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br>Zapier
     </td>
     <td align="center">
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/><br>Chart.js<br><br>
@@ -99,26 +88,42 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br>Figma<br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><br>Sass
+    
+</table>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Skills</h3>
+      <ul>
+        <li>Network Automation</li>
+        <li>API and SDK Support</li>
+        <li>Web Development</li>
+        <li>Prototype Development</li>
+        <li>Account Management</li>
+        <li>Strategic Thinking</li>
+        <li>Training and Knowledge Sharing</li>
+      </ul>
+      <hr style="border:0; border-top:1px solid #ccc; margin: 20px 0;"> <!-- Horizontal line to separate sections -->
+      <h3>Certifications</h3>
+      <ul>
+        <li>CCNA (Cisco Certified Network Associate)</li>
+        <li>Cisco Enterprise Automation and Programmability</li>
+        <li>CCNP Enterprise (Cisco Certified Network Professional Enterprise)</li>
+        <li>DevNet Associate (Cisco Certified DevNet Associate)</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><br>Arduino<br><br>
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/><br>Chart.js again<br><br>
-      <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/><br>IFTTT<br><br>
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br>Zapier
+    <td valign="top" width="50%">
+      <h3 align="center">GitHub Statistics</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rey-diaz&show_icons=true&locale=en&layout=compact" alt="rey-diaz" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rey-diaz&show_icons=true&locale=en" alt="rey-diaz" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rey-diaz&" alt="rey-diaz" />
+      </p>
     </td>
   </tr>
 </table>
 
-<h3 align="center">GitHub Statistics:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rey-diaz&show_icons=true&locale=en&layout=compact" alt="rey-diaz" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rey-diaz&show_icons=true&locale=en" alt="rey-diaz" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rey-diaz&" alt="rey-diaz" />
-</p>
